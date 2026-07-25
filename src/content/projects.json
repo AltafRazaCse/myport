@@ -3,6 +3,16 @@
   "heading": "Projects",
   "items": [
     {
+      "title": "WTF Go",
+      "category": "Multi-Tenant Gym Management SaaS",
+      "impact": "Multi-tenant RBAC, subscription billing & Razorpay payments for gyms",
+      "tools": "React · TypeScript · Node.js · PostgreSQL",
+      "year": "2026",
+      "image": "/images/wtfgo.png",
+      "link": "https://wtfgos.com/",
+      "repo": ""
+    },
+    {
       "title": "Aura Orbit",
       "category": "AI-Powered Habit Intelligence System",
       "impact": "AI insights, streak analytics & Razorpay subscriptions",

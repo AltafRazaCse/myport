@@ -5,6 +5,13 @@
   "jobs": [
     {
       "role": "Full-Stack Developer",
+      "company": "Witness The Fitness Pvt. Ltd.",
+      "place": "React · TypeScript · Node.js — Noida",
+      "period": "Apr 2026 — Jul 2026",
+      "description": "Built WTF Go — a multi-tenant Gym Management SaaS — end to end: authentication, RBAC, memberships, billing, CRM and reporting across multiple gym locations. Designed REST APIs, PostgreSQL schemas and subscription workflows with Razorpay payment integration, and shipped tax management, invoicing and feature-based access control so every tenant runs fully isolated."
+    },
+    {
+      "role": "Full-Stack Developer",
       "company": "International Water Management Institute",
       "place": "React.js · FastAPI — New Delhi",
       "period": "Sep 2025 — Dec 2025",
