@@ -3,7 +3,7 @@ backend:
   repo: AltafRazaCse/myport
   branch: main
   base_url: https://altaf-port.vercel.app
-  auth_endpoint: /.vercel/functions/oauth
+  auth_endpoint: /api/oauth
 
 # Lets you run the CMS locally with `npx decap-server` + /admin during dev.
 local_backend: true
