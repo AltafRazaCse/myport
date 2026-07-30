@@ -1,9 +1,9 @@
 backend:
   name: github
-  repo: altafraza84276/portfolio
+  repo: AltafRazaCse/myport
   branch: main
-  base_url: https://your-site-url.netlify.app
-  auth_endpoint: /.netlify/functions/oauth
+  base_url: https://altaf-port.vercel.app
+  auth_endpoint: /.vercel/functions/oauth
 
 # Lets you run the CMS locally with `npx decap-server` + /admin during dev.
 local_backend: true
@@ -11,8 +11,8 @@ local_backend: true
 media_folder: "public/images/uploads"
 public_folder: "/images/uploads"
 
-site_url: https://your-site-url.netlify.app
-display_url: https://your-site-url.netlify.app
+site_url: https://altaf-port.vercel.app
+display_url: https://altaf-port.vercel.app
 
 collections:
   - name: hero
