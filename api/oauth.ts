@@ -2,9 +2,9 @@ import crypto from "crypto";
 import type { VercelRequest, VercelResponse } from "@vercel/node";
 
 export default function handler(req: VercelRequest, res: VercelResponse) {
-  const clientId = process.env.OAUTH_GITHUB_CLIENT_ID;
+  const clientId = process.env.OAUTH_GITHUB_CLIENT_ID || process.env.GITHUB_CLIENT_ID;
   if (!clientId) {
-    res.status(500).send("OAUTH_GITHUB_CLIENT_ID is not set in environment variables.");
+    res.status(500).send("OAUTH_GITHUB_CLIENT_ID or GITHUB_CLIENT_ID is not set in environment variables.");
     return;
   }
 

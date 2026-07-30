@@ -1,8 +1,8 @@
 import type { VercelRequest, VercelResponse } from "@vercel/node";
 
 export default async function handler(req: VercelRequest, res: VercelResponse) {
-  const clientId = process.env.OAUTH_GITHUB_CLIENT_ID;
-  const clientSecret = process.env.OAUTH_GITHUB_CLIENT_SECRET;
+  const clientId = process.env.OAUTH_GITHUB_CLIENT_ID || process.env.GITHUB_CLIENT_ID;
+  const clientSecret = process.env.OAUTH_GITHUB_CLIENT_SECRET || process.env.GITHUB_CLIENT_SECRET;
   const code = req.query.code as string | undefined;
 
   if (!clientId || !clientSecret) {
