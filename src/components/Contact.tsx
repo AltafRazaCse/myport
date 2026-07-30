@@ -47,9 +47,9 @@ const Contact = () => {
           <div className="contact-block">
             <span className="contact-label">Based in</span>
             <span className="contact-line">{contact.location}</span>
-            <a href="#book" className="contact-line contact-book" data-cursor="disable">
+            {/* <a href="#book" className="contact-line contact-book" data-cursor="disable">
               Book a 1:1 call ↗
-            </a>
+            </a> */}
           </div>
 
           <div className="contact-block contact-block-end">

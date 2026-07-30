@@ -1,7 +1,7 @@
 import { useEffect } from "react";
 import About from "./About";
-import AskAI from "./AskAI";
-import BookCall from "./BookCall";
+// import AskAI from "./AskAI";
+// import BookCall from "./BookCall";
 import Career from "./Career";
 import Contact from "./Contact";
 import Cursor from "./Cursor";
@@ -44,7 +44,7 @@ const MainContainer = () => {
       <ScrollProgress />
       <Cursor />
       <Navbar />
-      <AskAI />
+      {/* <AskAI /> */}
       <div id="smooth-wrapper">
         <div id="smooth-content">
           <div className="container-main">
@@ -57,7 +57,7 @@ const MainContainer = () => {
             <Skills />
             <Credentials />
             <Testimonials />
-            <BookCall />
+            {/* <BookCall /> */}
             <Contact />
           </div>
         </div>
