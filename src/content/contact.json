@@ -1,21 +1,19 @@
 {
   "bookingEyebrow": "Schedule",
   "bookingHeading": "Book a 1:1 call",
-  "bookingCalLink": "mehdi-alam-irnhht/30min",
+  "bookingCalLink": "",
   "eyebrow": "Contact",
   "ctaLine1": "Let's build",
   "ctaLine2": "something ",
   "ctaHighlight": "great.",
-  "email": "mehdialam20002@gmail.com",
-  "phone": "+91 77619 21786",
-  "phoneHref": "tel:+917761921786",
+  "email": "altafraza84276@gmail.com",
+  "phone": "+91 7633981809",
+  "phoneHref": "tel:+917633981809",
   "location": "New Delhi, India",
-  "signature": "Mehdi Alam",
+  "signature": "Altaf Raza",
   "year": "© 2026",
   "socials": [
-    { "label": "GitHub", "href": "https://github.com/mehdialam20002" },
-    { "label": "LinkedIn", "href": "https://www.linkedin.com/in/mehdi-alam-9411751b7" },
-    { "label": "Twitter / X", "href": "https://x.com/Mehdi7862" },
-    { "label": "Instagram", "href": "https://www.instagram.com/mehdiialam" }
+    { "label": "GitHub", "href": "https://github.com/altafraza84276" },
+    { "label": "LinkedIn", "href": "" }
   ]
 }

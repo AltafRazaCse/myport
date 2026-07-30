@@ -1,31 +1,32 @@
 {
   "resumeUrl": "https://drive.google.com/file/d/19IBVJIkjPhxA8ORX78siuOo0lorKlUuV/view?usp=drive_link",
   "loadingWelcome": "Welcome",
+  "loadingText": "Crafting",
   "marqueeWords": [
     "React.js",
+    "Next.js",
+    "TypeScript",
     "Node.js",
     "FastAPI",
-    "TypeScript",
     "PostgreSQL",
-    "Next.js",
-    "Express",
-    "MongoDB",
+    "GitHub",
+    "AI APIs",
     "REST APIs"
   ],
-  "techHeadingHighlight": "with",
-  "loadingText": "Crafting",
   "techHeadingBefore": "Tools I build ",
+  "techHeadingHighlight": "with",
   "techWords": [
+    "React.js",
+    "Next.js",
+    "TypeScript",
+    "Node.js",
     "FastAPI",
     "PostgreSQL",
-    "REST APIs",
-    "JWT Auth",
-    "Tailwind CSS",
     "Git & GitHub",
     "CI/CD",
-    "Postman"
+    "REST APIs"
   ],
-  "navTitle": "MEHDI",
+  "navTitle": "ALTAF",
   "navLinks": [
     {
       "label": "ABOUT",
@@ -44,5 +45,8 @@
       "href": "#contact"
     }
   ],
-  "navEmail": "mehdialam20002@gmail.com"
+  "navEmail": "altafraza84276@gmail.com",
+  "githubUrl": "https://github.com/altafraza84276",
+  "linkedinUrl": "",
+  "instagramUrl": ""
 }

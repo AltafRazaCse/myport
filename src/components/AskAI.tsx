@@ -52,7 +52,7 @@ const AskAI = () => {
           content:
             data.answer ||
             data.error ||
-            "Hmm, something went wrong. Try again or email mehdialam20002@gmail.com.",
+            "Hmm, something went wrong. Try again or email altafraza84276@gmail.com.",
         },
       ]);
     } catch {
@@ -61,7 +61,7 @@ const AskAI = () => {
         {
           role: "assistant",
           content:
-            "I couldn't reach the AI service. Please email mehdialam20002@gmail.com.",
+            "I couldn't reach the AI service. Please email altafraza84276@gmail.com.",
         },
       ]);
     } finally {
@@ -74,7 +74,7 @@ const AskAI = () => {
       <button
         className={`askai-fab ${open ? "is-open" : ""}`}
         onClick={() => setOpen((o) => !o)}
-        aria-label="Ask AI about Mehdi"
+        aria-label="Ask AI about Altaf"
         data-cursor="disable"
       >
         <span className="askai-fab-icon">
@@ -83,7 +83,7 @@ const AskAI = () => {
         <span className="askai-fab-label">{ai.fabLabel}</span>
       </button>
 
-      <div className={`askai-panel ${open ? "is-open" : ""}`} role="dialog" aria-label="Ask AI about Mehdi">
+      <div className={`askai-panel ${open ? "is-open" : ""}`} role="dialog" aria-label="Ask AI about Altaf">
         <div className="askai-head">
           <div className="askai-head-title">
             <span className="askai-dot" />

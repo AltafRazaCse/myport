@@ -60,22 +60,18 @@ const SocialIcons = () => {
     <div className="icons-section">
       <div className="social-icons" data-cursor="icons" id="social">
         <span>
-          <a href="https://github.com/mehdialam20002/" target="_blank">
+          <a href={site.githubUrl || "https://github.com/altafraza84276"} target="_blank">
             <FaGithub />
           </a>
         </span>
         <span>
-          <a href="https://www.linkedin.com/in/mehdi-alam-9411751b7/" target="_blank">
+          <a href={site.linkedinUrl || "#"} target={site.linkedinUrl ? "_blank" : undefined}>
             <FaLinkedinIn />
           </a>
         </span>
-        {/* <span>
-          <a href="https://x.com/mehdii" target="_blank">
-            <FaXTwitter />
-          </a>
-        </span> */}
+        {/* Optional extra social can be added later. */}
         <span>
-          <a href="https://www.instagram.com/mehdiialam" target="_blank">
+          <a href={site.instagramUrl || "#"} target={site.instagramUrl ? "_blank" : undefined}>
             <FaInstagram />
           </a>
         </span>

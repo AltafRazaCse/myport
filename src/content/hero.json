@@ -1,14 +1,14 @@
 {
-  "available": "Available for work",
-  "location": "New Delhi, IND",
-  "titleLine1": "Full–Stack",
+  "available": "Open to work",
+  "location": "New Delhi, India",
+  "titleLine1": "Full-Stack",
   "titleLine2": "Developer",
-  "taglineBefore": "I build ",
-  "taglineHighlight": "fast, scalable",
-  "taglineAfter": " web applications with React, Node & FastAPI.",
+  "taglineBefore": "I design and ship ",
+  "taglineHighlight": "clean, fast",
+  "taglineAfter": " digital products with React, Node.js, FastAPI, and modern AI integrations.",
   "nameLabel": "Portfolio of",
-  "name": "Mehdi Alam",
+  "name": "Altaf Raza",
   "scrollLabel": "Scroll to explore",
-  "stack": "React · Node · FastAPI · 1,000+ users served",
-  "year": "©2026"
+  "stack": "React · Node.js · FastAPI · Next.js · AI-ready products",
+  "year": "© 2026"
 }

@@ -1,4 +1,4 @@
-import { askMehdi } from "../../ai/askMehdi.mjs";
+import { askAi } from "../../ai/askAi.mjs";
 
 export async function handler(event) {
   if (event.httpMethod !== "POST") {
@@ -16,7 +16,7 @@ export async function handler(event) {
     };
   }
 
-  const result = await askMehdi(body.messages);
+  const result = await askAi(body.messages);
 
   return {
     statusCode: result.status,

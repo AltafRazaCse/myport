@@ -1,8 +1,8 @@
 backend:
   name: github
-  repo: mehdialam20002/myPortFolio2026march
+  repo: altafraza84276/portfolio
   branch: main
-  base_url: https://mehdiiialam.netlify.app
+  base_url: https://your-site-url.netlify.app
   auth_endpoint: /.netlify/functions/oauth
 
 # Lets you run the CMS locally with `npx decap-server` + /admin during dev.
@@ -11,8 +11,8 @@ local_backend: true
 media_folder: "public/images/uploads"
 public_folder: "/images/uploads"
 
-site_url: https://mehdiiialam.netlify.app
-display_url: https://mehdiiialam.netlify.app
+site_url: https://your-site-url.netlify.app
+display_url: https://your-site-url.netlify.app
 
 collections:
   - name: hero
@@ -187,7 +187,7 @@ collections:
         fields:
           - { name: bookingEyebrow, label: "Booking — eyebrow", widget: string }
           - { name: bookingHeading, label: "Booking — heading", widget: string }
-          - { name: bookingCalLink, label: "Cal.com booking link", widget: string, required: false, hint: "Just the part after cal.com — e.g. mehdialam/30min" }
+          - { name: bookingCalLink, label: "Cal.com booking link", widget: string, required: false, hint: "Just the part after cal.com — e.g. yourusername/30min" }
           - { name: eyebrow, label: Eyebrow, widget: string }
           - { name: ctaLine1, label: "CTA line 1", widget: string }
           - { name: ctaLine2, label: "CTA line 2", widget: string }

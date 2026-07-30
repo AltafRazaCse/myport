@@ -5,14 +5,14 @@
   "headingAfter": "",
   "items": [
     {
-      "quote": "Mehdi shipped features fast and kept the codebase clean and well-structured. He noticeably cut our page load times and was a dependable part of the team.",
+      "quote": "Altaf shipped features quickly and kept the codebase clean and well-structured. He noticeably improved delivery speed and was a dependable part of the team.",
       "name": "Team Lead",
-      "role": "Finolity Consultancy"
+      "role": "Client Project"
     },
     {
-      "quote": "Working with Mehdi on our FastAPI backend was smooth — he turned complex research models into production-ready APIs and genuinely cared about performance.",
-      "name": "Research Collaborator",
-      "role": "Int. Water Management Institute"
+      "quote": "Working with Altaf on a backend-heavy product was smooth — he turned complex requirements into reliable APIs and genuinely cared about performance.",
+      "name": "Project Collaborator",
+      "role": "Freelance Team"
     },
     {
       "quote": "A quick problem-solver and a great communicator. He delivered a polished, responsive UI and handled the API integrations end to end.",

@@ -75,7 +75,7 @@ const Navbar = () => {
         <div className="nav-actions">
           <div className="nav-socials">
             <a
-              href="https://github.com/mehdialam20002/"
+              href={site.githubUrl || "https://github.com/altafraza84276"}
               target="_blank"
               rel="noreferrer"
               aria-label="GitHub"
@@ -84,20 +84,22 @@ const Navbar = () => {
               <FaGithub />
             </a>
             <a
-              href="https://www.linkedin.com/in/mehdi-alam-9411751b7/"
+              href={site.linkedinUrl || ""}
               target="_blank"
               rel="noreferrer"
               aria-label="LinkedIn"
               data-cursor="disable"
+              style={{ opacity: site.linkedinUrl ? 1 : 0.4 }}
             >
               <FaLinkedinIn />
             </a>
             <a
-              href="https://www.instagram.com/mehdiialam"
+              href={site.instagramUrl || ""}
               target="_blank"
               rel="noreferrer"
               aria-label="Instagram"
               data-cursor="disable"
+              style={{ opacity: site.instagramUrl ? 1 : 0.4 }}
             >
               <FaInstagram />
             </a>

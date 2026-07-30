@@ -2,9 +2,9 @@
   <rect width="1200" height="630" fill="#0a0a0a"/>
   <circle cx="980" cy="160" r="280" fill="#ff5630" opacity="0.18"/>
   <circle cx="240" cy="540" r="220" fill="#22d3ee" opacity="0.10"/>
-  <text x="80" y="120" font-family="Arial, sans-serif" font-size="22" letter-spacing="6" fill="#8f8d86">MEHDI · PORTFOLIO</text>
+  <text x="80" y="120" font-family="Arial, sans-serif" font-size="22" letter-spacing="6" fill="#8f8d86">ALTAF · PORTFOLIO</text>
   <text x="74" y="320" font-family="Arial, sans-serif" font-size="150" font-weight="800" letter-spacing="-4" fill="#f4f1ea">FULL-STACK</text>
   <text x="78" y="450" font-family="Arial, sans-serif" font-size="150" font-weight="800" letter-spacing="-4" fill="none" stroke="#f4f1ea" stroke-width="2">DEVELOPER</text>
-  <text x="80" y="560" font-family="Arial, sans-serif" font-size="30" fill="#f4f1ea">Mehdi Alam <tspan fill="#ff5630">·</tspan> React <tspan fill="#ff5630">·</tspan> Node <tspan fill="#ff5630">·</tspan> FastAPI</text>
+  <text x="80" y="560" font-family="Arial, sans-serif" font-size="30" fill="#f4f1ea">Altaf Raza <tspan fill="#ff5630">·</tspan> React <tspan fill="#ff5630">·</tspan> Node <tspan fill="#ff5630">·</tspan> FastAPI</text>
   <text x="1120" y="120" text-anchor="end" font-family="Arial, sans-serif" font-size="22" letter-spacing="3" fill="#ff5630">AVAILABLE FOR WORK</text>
 </svg>

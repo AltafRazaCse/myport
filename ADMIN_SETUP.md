@@ -12,9 +12,9 @@ API keys are **never** stored in the repo — only in Netlify environment variab
 
 1. Go to https://github.com/settings/developers → **New OAuth App**
 2. Fill in:
-   - **Application name:** Mehdi Portfolio CMS
-   - **Homepage URL:** `https://mehdiiialam.netlify.app`
-   - **Authorization callback URL:** `https://mehdiiialam.netlify.app/.netlify/functions/callback`
+   - **Application name:** Altaf Portfolio CMS
+   - **Homepage URL:** `https://your-site-url.netlify.app`
+   - **Authorization callback URL:** `https://your-site-url.netlify.app/.netlify/functions/callback`
 3. Create it, then copy the **Client ID** and generate a **Client Secret**.
 
 ## 2. Netlify environment variables
@@ -33,7 +33,7 @@ Then **redeploy** (Netlify → Deploys → Trigger deploy).
 
 ## 3. Use it
 
-- Open `https://mehdiiialam.netlify.app/admin`
+- Open `https://your-site-url.netlify.app/admin`
 - Click **Login with GitHub**
 - Edit any section (Hero, About, Projects, AI Assistant, …) → **Publish**
 - Wait ~1 min for the rebuild → changes are live.

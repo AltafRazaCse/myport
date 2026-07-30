@@ -3,14 +3,14 @@
     {
       "title": "Frontend",
       "subtitle": "Building Interactive UIs",
-      "description": "Crafting performant, responsive interfaces with modern frameworks. From SPAs to micro-frontends, I deliver pixel-perfect experiences.",
+      "description": "Crafting polished, responsive interfaces with modern frameworks and thoughtful UX details. From landing pages to dashboards, I focus on smooth interactions and fast performance.",
       "skillsLabel": "Skillset & tools",
-      "tags": ["React.js", "TypeScript", "JavaScript", "HTML5", "CSS3"]
+      "tags": ["React.js", "TypeScript", "Next.js", "Tailwind CSS", "HTML5", "CSS3"]
     },
     {
       "title": "Backend",
       "subtitle": "Scalable Server Architecture",
-      "description": "Designing robust APIs and microservices. From CMS platforms to complex business logic, I build backends that scale.",
+      "description": "Designing dependable APIs and product-ready services that connect data, auth, and business logic with clean architecture and maintainable code.",
       "skillsLabel": "Skillset & tools",
       "tags": ["Node.js", "FastAPI", "Python", "PostgreSQL", "MySQL", "REST APIs", "JWT"]
     }

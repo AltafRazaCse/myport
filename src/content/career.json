@@ -5,24 +5,24 @@
   "jobs": [
     {
       "role": "Full-Stack Developer",
-      "company": "Witness The Fitness Pvt. Ltd.",
-      "place": "React · TypeScript · Node.js — Noida",
-      "period": "Apr 2026 — Jul 2026",
-      "description": "Built WTF Go — a multi-tenant Gym Management SaaS — end to end: authentication, RBAC, memberships, billing, CRM and reporting across multiple gym locations. Designed REST APIs, PostgreSQL schemas and subscription workflows with Razorpay payment integration, and shipped tax management, invoicing and feature-based access control so every tenant runs fully isolated."
+      "company": "Independent & Freelance Projects",
+      "place": "React · Next.js · Node.js — Delhi NCR",
+      "period": "2024 — Present",
+      "description": "Building responsive web apps, internal tools, dashboards, and API-driven products from planning to deployment with a focus on performance, clean architecture, and maintainability."
     },
     {
-      "role": "Full-Stack Developer",
-      "company": "International Water Management Institute",
-      "place": "React.js · FastAPI — New Delhi",
-      "period": "Sep 2025 — Dec 2025",
-      "description": "Built scalable FastAPI backend services for large-scale data processing and API delivery, integrating PostgreSQL with efficient querying, preprocessing and caching. Converted complex climate & water-productivity research models into production-ready logic, and shipped modular data flows enabling real-time indicator calculations across districts and crops."
+      "role": "Frontend Developer",
+      "company": "Client Projects",
+      "place": "TypeScript · Tailwind · Vite — Remote",
+      "period": "2023 — 2024",
+      "description": "Translated UI/UX requirements into fast, accessible interfaces and integrated third-party APIs to create polished marketing sites and business tools."
     },
     {
-      "role": "Software Development Engineer",
-      "company": "Finolity Consultancy Pvt. Ltd.",
-      "place": "React.js · Node.js — Patna",
-      "period": "May 2024 — May 2025",
-      "description": "Developed and optimized full-stack web apps for 1,000+ users with React.js and Node.js. Cut page load time by ~35% via code splitting, lazy loading and image optimization, built reusable UI components and API services that lifted dev speed by 25%, and integrated REST APIs for seamless frontend–backend communication."
+      "role": "Developer Intern",
+      "company": "Open to opportunities",
+      "place": "JavaScript · Git · REST APIs — Remote",
+      "period": "2022 — 2023",
+      "description": "Strengthened debugging, project structure, and collaborative workflows while contributing to small features and learning modern development practices."
     }
   ]
 }
