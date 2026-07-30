@@ -1,6 +1,6 @@
 import { defineConfig, loadEnv, type Plugin } from "vite";
 import react from "@vitejs/plugin-react";
-import { askAi } from "./ai/askAi.mjs";
+import { askMehdi } from "./ai/askMehdi.mjs";
 
 // Local dev proxy so the AI widget works under `npm run dev` without exposing
 // the API key to the browser. In production the same /api/ask path is handled
@@ -22,7 +22,7 @@ function askAiDevPlugin(): Plugin {
             res.setHeader("Content-Type", "application/json");
             return res.end(JSON.stringify({ error: "Invalid JSON body." }));
           }
-          const result = await askAi(
+          const result = await askMehdi(
             (body as { messages?: unknown }).messages
           );
           res.statusCode = result.status;
