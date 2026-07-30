@@ -1,14 +1,14 @@
 {
-  "available": "Open to work",
-  "location": "New Delhi, India",
   "titleLine1": "Full-Stack",
-  "titleLine2": "Developer",
-  "taglineBefore": "I design and ship ",
   "taglineHighlight": "clean, fast",
-  "taglineAfter": " digital products with React, Node.js, FastAPI, and modern AI integrations.",
-  "nameLabel": "Portfolio of",
-  "name": "Altaf Raza",
+  "titleLine2": "Developer",
   "scrollLabel": "Scroll to explore",
   "stack": "React · Node.js · FastAPI · Next.js · AI-ready products",
+  "available": "Open to work",
+  "nameLabel": "Portfolio of",
+  "name": "Altaf Raza",
+  "taglineBefore": "I designn and ship ",
+  "taglineAfter": " digital products with React, Node.js, FastAPI, and modern AI integrations.",
+  "location": "New Delhi, India",
   "year": "© 2026"
 }
